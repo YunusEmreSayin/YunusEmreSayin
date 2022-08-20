@@ -2,7 +2,6 @@
 - 👀 I’m Working on C#,MSSQL,HTML-CSS,Python projects
 - 🌱 I’m currently learning PHP,JAVASCRIPT
 - 📫 You can reach me from: ynsyn3436@gmail.com
-- 👀 Coding Tic Tac Toe on C# right now
 
 <!---
 YunusEmreSayin/YunusEmreSayin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
