@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YunusEmreSayin
-- 👀 I’m Working on C#,MSSQL,HTML-CSS,Python projects
+- 👀 I’m Working on C#,MSSQL,Python projects
 - 🌱 I’m currently learning C++,JAVASCRIPT,Android Development(JAVA)
 - 📫 You can reach me from: ynsyn3436@gmail.com
 
