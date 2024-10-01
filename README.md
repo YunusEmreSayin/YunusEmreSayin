@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p float="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="90" height="60" alt="C#"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60" height="60" alt="C#"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60" height="60" alt="JavaScript"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60" height="60" alt="HTML5"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60" height="60" alt="CSS3"/>
