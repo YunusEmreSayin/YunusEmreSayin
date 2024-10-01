@@ -35,3 +35,7 @@ You can click the Preview link to take a look at your changes.
 [![OpenVINO Toolkit](https://img.shields.io/badge/OpenVINO-008FCC?style=for-the-badge&logo=openvino&logoColor=white)](https://docs.openvino.ai/latest/index.html)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![MXNet](https://img.shields.io/badge/MXNet-0F6798?style=for-the-badge&logo=apache-mxnet&logoColor=white)](https://mxnet.apache.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
