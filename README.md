@@ -23,7 +23,7 @@ Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aş
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" height="100" alt="Python"/>
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="100" height="100" alt="PyTorch"/>
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="100" height="100" alt="TensorFlow"/>
-    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="100" height="100" alt="Flask"/>
+    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="150" height="100" alt="Flask"/>
     <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" width="100" height="100" alt="Java"/>
 </p>
 
@@ -39,7 +39,7 @@ Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aş
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" width="200" height="100" alt="Docker"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="100" height="100" alt="OpenCV"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="100" height="100" alt="Pandas"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/214px-NumPy_logo_2020.svg.png" width="100" height="100" alt="NumPy"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/214px-NumPy_logo_2020.svg.png" width="150" height="100" alt="NumPy"/>
     <img src="https://keras.io/img/logo.png" width="200" height="100" alt="Keras"/>
 </p>
 
