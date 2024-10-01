@@ -56,7 +56,7 @@ Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aş
     <img src="https://mxnet.apache.org/versions/1.9.1/assets/img/mxnet_logo.png" width="200" height="100" alt="MXNet"/>
     <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" width="100" height="100" alt="MySQL"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/330px-SQLite370.svg.png" width="100" height="100" alt="SQLite"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" width="200" height="100" alt="SQL Server"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" width="150" height="80" alt="SQL Server"/>
 </p>
 
 
