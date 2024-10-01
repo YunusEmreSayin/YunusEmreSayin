@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" alt="Python"/>
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="60" alt="PyTorch"/>
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="60" height="60" alt="TensorFlow"/>
-    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="90" height="10" alt="Flask"/>
+    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="90" height="60" alt="Flask"/>
     <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" width="60" height="60" alt="Java"/>
 </p>
 
