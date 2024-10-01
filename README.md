@@ -7,17 +7,8 @@
 YunusEmreSayin/YunusEmreSayin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Proje Başlığı
 
-Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aşağıda kullanılan teknolojilerin logoları ve bağlantıları yer almaktadır.
-
-## Kullanılan Teknolojiler
-
-# Proje Başlığı
-
-Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aşağıda kullanılan teknolojilerin logoları ve bağlantıları yer almaktadır.
-
-## Kullanılan Teknolojiler
+## 
 
 <p float="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" height="100" alt="Python"/>
