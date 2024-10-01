@@ -20,7 +20,7 @@ Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aş
 ## Kullanılan Teknolojiler
 
 <p float="left">
-    <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" width="100" height="100" alt="Python"/>
+    <img src="[https://www.python.org/community/logos/python-logo-master-v3-TM.png](https://www.python.org/)" width="100" height="100" alt="Python"/>
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="100" height="100" alt="PyTorch"/>
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="100" height="100" alt="TensorFlow"/>
     <img src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" width="100" height="100" alt="Flask"/>
