@@ -11,19 +11,19 @@ You can click the Preview link to take a look at your changes.
 ## 
 
 <p float="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="10" height="10" alt="Python"/>
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="10" height="10" alt="PyTorch"/>
-    <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="10" height="10" alt="TensorFlow"/>
-    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="15" height="10" alt="Flask"/>
-    <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" width="10" height="10" alt="Java"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" alt="Python"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="60" alt="PyTorch"/>
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="60" height="60" alt="TensorFlow"/>
+    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="90" height="10" alt="Flask"/>
+    <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" width="60" height="60" alt="Java"/>
 </p>
 
 <p float="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="15" height="15" alt="C#"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="10" height="10" alt="JavaScript"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="10" height="10" alt="HTML5"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="10" height="10" alt="CSS3"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="10" height="10" alt="Bootstrap"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="90" height="60" alt="C#"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60" height="60" alt="JavaScript"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60" height="60" alt="HTML5"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60" height="60" alt="CSS3"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" alt="Bootstrap"/>
 </p>
 
 <p float="left">
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <p float="left">
     <img src="https://matplotlib.org/stable/_static/logo2.svg" width="60" height="60" alt="Matplotlib"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="20" height="60" alt="Postman"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="30" height="60" alt="Postman"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="60" height="60" alt="Kaggle"/>
     <img src="https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg" width="60" height="60" alt="Weights & Biases"/>
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="60" height="60" alt="Hugging Face"/>
