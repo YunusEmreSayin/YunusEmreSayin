@@ -24,7 +24,7 @@ Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aş
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="100" height="100" alt="PyTorch"/>
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="100" height="100" alt="TensorFlow"/>
     <img src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" width="100" height="100" alt="Flask"/>
-    <img src="[https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg](https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/450px-Java_Logo.svg.png?20111229210123)" width="100" height="100" alt="Java"/>
+    <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" width="100" height="100" alt="Java"/>
 </p>
 
 <p float="left">
