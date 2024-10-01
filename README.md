@@ -36,27 +36,27 @@ Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aş
 </p>
 
 <p float="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" width="100" height="100" alt="Docker"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" width="200" height="100" alt="Docker"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="100" height="100" alt="OpenCV"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="100" height="100" alt="Pandas"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/214px-NumPy_logo_2020.svg.png" width="100" height="100" alt="NumPy"/>
-    <img src="https://keras.io/img/logo.png" width="100" height="100" alt="Keras"/>
+    <img src="https://keras.io/img/logo.png" width="200" height="100" alt="Keras"/>
 </p>
 
 <p float="left">
     <img src="https://matplotlib.org/stable/_static/logo2.svg" width="100" height="100" alt="Matplotlib"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="100" height="100" alt="Postman"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="200" height="100" alt="Postman"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100" height="100" alt="Kaggle"/>
     <img src="https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg" width="100" height="100" alt="Weights & Biases"/>
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="100" height="100" alt="Hugging Face"/>
 </p>
 
 <p float="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/OpenVINO_logo.svg/768px-OpenVINO_logo.svg.png?20230122230514" width="100" height="100" alt="OpenVINO"/>
-    <img src="https://mxnet.apache.org/versions/1.9.1/assets/img/mxnet_logo.png" width="100" height="100" alt="MXNet"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/OpenVINO_logo.svg/768px-OpenVINO_logo.svg.png?20230122230514" width="200" height="100" alt="OpenVINO"/>
+    <img src="https://mxnet.apache.org/versions/1.9.1/assets/img/mxnet_logo.png" width="200" height="100" alt="MXNet"/>
     <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" width="100" height="100" alt="MySQL"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/330px-SQLite370.svg.png" width="100" height="100" alt="SQLite"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" width="100" height="100" alt="SQL Server"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" width="200" height="100" alt="SQL Server"/>
 </p>
 
 
