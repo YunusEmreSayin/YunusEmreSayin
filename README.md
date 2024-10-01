@@ -2,9 +2,9 @@
 - 📌 Working as Data Scientist at Serkon Teknoloji   📍Located Istanbul / Turkey
 - 📌 Studen ISTUN ,     📍 Located Istanbul / Turkey
 ##
-- 👀 I’m Working on Deep Learning Projects, Machine Learning,C#,MSSQL,Python projects,Android Applications(Java),ASP.NET
-- 👀 I'm also working on ASP.NETCORE Web Api technologies and Flask API projects on python
-- 🌱 I’m currently learning C++,AI Technologies,Image Processing Technologies
+- 🪛 I’m Working on Deep Learning Projects, Machine Learning,C#,MSSQL,Python projects,Android Applications(Java),ASP.NET
+- 🏁 I'm also working on ASP.NETCORE Web Api technologies and Flask API projects on python
+- 👀 I’m currently learning C++,AI Technologies,Image Processing Technologies
 ##
 ## Contact 
 - 📫 You can reach me from: yunusemre.sayin00@gmail.com yunusemre.sayin@serkonteknoloji.com
