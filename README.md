@@ -7,35 +7,71 @@
 YunusEmreSayin/YunusEmreSayin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)](https://www.python.org/)
-[![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)](https://pytorch.org/)
-[![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png)](https://www.tensorflow.org/)
-[![Flask](https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png)](https://flask.palletsprojects.com/)
-[![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)](https://www.java.com/)
+# Proje Başlığı
 
-[![C#](https://upload.wikimedia.org/wikipedia/commons/4/4c/Csharp_Logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6c/JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://upload.wikimedia.org/wikipedia/commons/b/b2/HTML5_logo_and_wordmark.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://getbootstrap.com/docs/5.1/assets/img/bootstrap-icons.svg)](https://getbootstrap.com/)
+Bu proje, çeşitli diller, kütüphaneler ve ortamlarla geliştirilmiştir. Aşağıda kullanılan teknolojilerin logoları ve bağlantıları yer almaktadır.
 
-[![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.svg)](https://www.docker.com/)
-[![OpenCV](https://opencv.org/assets/images/opencv_logo_w.png)](https://opencv.org/)
-[![Pandas](https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg)](https://pandas.pydata.org/)
-[![NumPy](https://numpy.org/images/logos/numpylogo.svg)](https://numpy.org/)
-[![Keras](https://keras.io/img/logo.png)](https://keras.io/)
+## Kullanılan Teknolojiler
 
-[![Matplotlib](https://matplotlib.org/stable/_static/logo2.svg)](https://matplotlib.org/)
-[![Postman](https://www.postman.com/assets/common/postman-logo-v2.svg)](https://www.postman.com/)
-[![Kaggle](https://www.kaggle.com/static/images/kaggle-logo.svg)](https://www.kaggle.com/)
-[![Weights & Biases](https://wandb.ai/img/wandb-logo-black.png)](https://wandb.ai/)
-[![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/)
+<p float="left">
+    <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" width="100" height="100"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="100" height="100"/>
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="100" height="100"/>
+    <img src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" width="100" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" width="100" height="100"/>
+</p>
 
-[![OpenVINO Toolkit](https://upload.wikimedia.org/wikipedia/commons/1/1c/OpenVINO_Logo.svg)](https://docs.openvino.ai/latest/index.html)
-[![MXNet](https://mxnet.apache.org/images/mxnet_logo.png)](https://mxnet.apache.org/)
-[![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png)](https://www.mysql.com/)
-[![SQLite](https://www.sqlite.org/logo348x130.gif)](https://www.sqlite.org/)
-[![MSSQL](https://upload.wikimedia.org/wikipedia/commons/e/e2/Microsoft_SQL_Server_Logo.png)](https://www.microsoft.com/en-us/sql-server)
+<p float="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Csharp_Logo.png" width="100" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/JavaScript-logo.png" width="100" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/HTML5_logo_and_wordmark.svg" width="100" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" width="100" height="100"/>
+    <img src="https://getbootstrap.com/docs/5.1/assets/img/bootstrap-icons.svg" width="100" height="100"/>
+</p>
+
+<p float="left">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.svg" width="100" height="100"/>
+    <img src="https://opencv.org/assets/images/opencv_logo_w.png" width="100" height="100"/>
+    <img src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" width="100" height="100"/>
+    <img src="https://numpy.org/images/logos/numpylogo.svg" width="100" height="100"/>
+    <img src="https://keras.io/img/logo.png" width="100" height="100"/>
+</p>
+
+<p float="left">
+    <img src="https://matplotlib.org/stable/_static/logo2.svg" width="100" height="100"/>
+    <img src="https://www.postman.com/assets/common/postman-logo-v2.svg" width="100" height="100"/>
+    <img src="https://www.kaggle.com/static/images/kaggle-logo.svg" width="100" height="100"/>
+    <img src="https://wandb.ai/img/wandb-logo-black.png" width="100" height="100"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="100" height="100"/>
+</p>
+
+<p float="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/OpenVINO_Logo.svg" width="100" height="100"/>
+    <img src="https://mxnet.apache.org/images/mxnet_logo.png" width="100" height="100"/>
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" height="100"/>
+    <img src="https://www.sqlite.org/logo348x130.gif" width="100" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Microsoft_SQL_Server_Logo.png" width="100" height="100"/>
+</p>
+
+## Proje Hakkında
+
+Buraya projeniz hakkında kısa bir açıklama ekleyin. Kullanılan teknolojiler ve proje amacı hakkında bilgi verebilirsiniz.
+
+## Kurulum
+
+Projenin kurulumu için gerekli adımları buraya ekleyin.
+
+## Kullanım
+
+Projenizin nasıl kullanılacağı hakkında bilgi verin.
+
+## Katkıda Bulunanlar
+
+Proje üzerinde katkıda bulunanları burada listeleyebilirsiniz.
+
+## Lisans
+
+Projenizin lisansı hakkında bilgi verin.
 
 
 
