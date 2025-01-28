@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="[https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png](https://icon.icepanel.io/Technology/png-shadow-512/Flask.png)" width="60" height="60" alt="Flask"/>
+    <img src="https://icons8.com/icon/MHcMYTljfKOr/flask" width="60" height="60" alt="Flask"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
