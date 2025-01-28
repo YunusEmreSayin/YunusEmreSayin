@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemresayin&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
