@@ -95,15 +95,17 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://ollama.com" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/public/ollama.png" alt="ollama" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
+</p>
+
+<p align="center">
+  
+  
   <a href="https://www.llama.ai" target="_blank" rel="noreferrer">
     <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" alt="llama" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
