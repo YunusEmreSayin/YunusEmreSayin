@@ -105,7 +105,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   
-  
+   <a href="https://docs.openvino.ai/2024/index.html#" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/OpenVINO_logo.svg/768px-OpenVINO_logo.svg.png?20230122230514" alt="OpenVINO" width="320" height="80" style="margin: 10px 40px;"/>
+  </a>
   <a href="https://www.llama.ai" target="_blank" rel="noreferrer">
     <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" alt="llama" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
