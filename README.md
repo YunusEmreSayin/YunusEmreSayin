@@ -101,11 +101,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align="left">Stats:</h3>
 <p align="center">
-  <img width="560" height="240" src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img width="480" height="240" src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="560" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
+  <img width="480" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 </p>
 
 
