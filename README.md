@@ -122,6 +122,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://roboflow.com/" target="_blank" rel="noreferrer">
     <img src="https://www.logosvgpng.com/wp-content/uploads/2023/03/roboflow-inc-logo-vector.png" alt="roboflow" width="140" height="80" style="margin: 10px 40px;"/>
   </a>
+  <a href="https://docs.ultralytics.com/tr" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922be624dae865d06a5_UltralyticsYOLO_full_blue.svg" alt="roboflow" width="140" height="80" style="margin: 10px 40px;"/>
+  </a>
   
 </p>
 
