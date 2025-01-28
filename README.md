@@ -98,3 +98,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusemresayin&show_icons=true&locale=en&layout=compact" alt="yunusemresayin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&show_icons=true&locale=en" alt="yunusemresayin" /></p>
