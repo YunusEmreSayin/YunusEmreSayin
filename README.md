@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
+  <img width="560" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 </p>
 
 
