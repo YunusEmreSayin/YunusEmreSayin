@@ -99,6 +99,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+" alt="yunusemresayin" width="450" height="200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&show_icons=true&locale=en" alt="yunusemresayin" width="450" height="200" /></p>
