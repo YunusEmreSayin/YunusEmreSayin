@@ -96,6 +96,24 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://ollama.com" target="_blank" rel="noreferrer">
+    <img src="https://ollama.com/public/ollama.png" alt="ollama" width="80" height="80" style="margin: 10px 40px;"/>
+  </a>
+  <a href="https://jan.ai" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Jan_logo.png" alt="janai" width="80" height="80" style="margin: 10px 40px;"/>
+  </a>
+  <a href="https://www.llama.ai" target="_blank" rel="noreferrer">
+    <img src="https://www.llama.ai/logo.png" alt="llama" width="80" height="80" style="margin: 10px 40px;"/>
+  </a>
+  <a href="https://www.geemma.com" target="_blank" rel="noreferrer">
+    <img src="https://www.geemma.com/logo.png" alt="geemma" width="80" height="80" style="margin: 10px 40px;"/>
+  </a>
+</p>
+
+
+
 <p align="center">
   <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
