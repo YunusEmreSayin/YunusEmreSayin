@@ -101,14 +101,14 @@ You can click the Preview link to take a look at your changes.
   <a href="https://ollama.com" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/public/ollama.png" alt="ollama" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
-  <a href="https://jan.ai" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Jan_logo.png" alt="janai" width="80" height="80" style="margin: 10px 40px;"/>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
   <a href="https://www.llama.ai" target="_blank" rel="noreferrer">
-    <img src="https://www.llama.ai/logo.png" alt="llama" width="80" height="80" style="margin: 10px 40px;"/>
+    <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" alt="llama" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
   <a href="https://www.geemma.com" target="_blank" rel="noreferrer">
-    <img src="https://www.geemma.com/logo.png" alt="geemma" width="80" height="80" style="margin: 10px 40px;"/>
+    <img src="https://logowik.com/content/uploads/images/google-gemma-ai3370.logowik.com.webp" alt="geemma" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
 </p>
 
