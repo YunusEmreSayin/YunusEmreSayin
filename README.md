@@ -114,6 +114,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
 <p align="center">
   <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
