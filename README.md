@@ -98,6 +98,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&show_icons=true&locale=en" alt="yunusemresayin" width="450" height="200" /></p>
