@@ -117,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="center">
   <a href="https://wasabi.com/" target="_blank" rel="noreferrer">
-    <img src="https://wasabi.com/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F300x70%2F5f1fdf3cc5%2Fsecondary-logo-full-color-rgb.svg%2Fm%2F172x0%2Ffilters%3Aquality(50)&w=1200&q=75" alt="wasabi" width="150" height="70" style="margin: 10px 40px;"/>
+    <img src="//cdn.document360.io/logo/bef0a1ea-7768-4d5a-b520-c4fe2f7fafad/1c9a47165d1640609c8e3145f0f6806d-wasabi-primary-logo.png" alt="wasabi" width="130" height="50" style="margin: 10px 40px;"/>
   </a>
   <a href="https://roboflow.com/" target="_blank" rel="noreferrer">
     <img src="https://www.logosvgpng.com/wp-content/uploads/2023/03/roboflow-inc-logo-vector.png" alt="roboflow" width="140" height="80" style="margin: 10px 40px;"/>
