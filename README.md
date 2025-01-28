@@ -96,14 +96,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80" style="margin: 10px 40px;"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 <h3 align="left">Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 </p>
