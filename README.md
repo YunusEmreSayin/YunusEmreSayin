@@ -117,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="center">
   <a href="https://wasabi.com/" target="_blank" rel="noreferrer">
-    <img src="https://wasabi.com/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F300x70%2F5f1fdf3cc5%2Fsecondary-logo-full-color-rgb.svg%2Fm%2F172x0%2Ffilters%3Aquality(50)&w=1200&q=75" alt="wasabi" width="80" height="80" style="margin: 10px 40px;"/>
+    <img src="https://wasabi.com/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F300x70%2F5f1fdf3cc5%2Fsecondary-logo-full-color-rgb.svg%2Fm%2F172x0%2Ffilters%3Aquality(50)&w=1200&q=75" alt="wasabi" width="160" height="80" style="margin: 10px 40px;"/>
   </a>
 </p>
 
