@@ -2,12 +2,12 @@
 - 📌 Working as Data Scientist at Serkon Teknoloji   📍Located Istanbul / Turkey
 - 📌 Student at ISTUN ,     📍 Located Istanbul / Turkey
 ##
-- 🪛 I’m Working on Deep Learning Projects, Machine Learning,C#,MSSQL,Python projects,Android Applications(Java),ASP.NET
-- 🏁 I'm also working on ASP.NETCORE Web Api technologies and Flask API projects on python
+- 🪛 I’m Working on Deep Learning , Machine Learning projects And Classification problems
+- 🏁 I'm also working on ASP.NETCORE Web Api & Python Service technologies,C#,MSSQL,Python projects,Android Applications(Java),ASP.NET
 - 👀 I’m currently learning C++,AI Technologies,Image Processing Technologies
 ##
 ## Contact 
-- 📫 You can reach me from: yunusemre.sayin00@gmail.com yunusemre.sayin@serkonteknoloji.com
+- 📫 You can reach me from: yunusemre.sayin00@gmail.com & yunusemre.sayin@serkonteknoloji.com
 <!---
 YunusEmreSayin/YunusEmreSayin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
