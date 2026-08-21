@@ -54,7 +54,7 @@ class YunusEmreSayin:
     <td>🌱</td><td>Şu an <b>C++</b>, <b>AI Technologies</b> ve <b>Image Processing</b> üzerine kendimi geliştiriyorum</td>
   </tr>
   <tr>
-    <td>⚡</td><td>Üretim ortamlarında GPU tabanlı computer vision inference sistemleri üzerinde çalışıyorum</td>
+    <td>⚡</td><td>Üretim ortamlarında GPU tabanlı Edge Computer Vision inference sistemleri ve edge cihazlar üzerinde çalışıyorum.</td>
   </tr>
 </table>
 
