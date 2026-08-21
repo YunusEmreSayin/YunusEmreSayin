@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:11172A&height=220&section=header&text=Yunus%20Emre%20Say%C4%B1n&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20%26%20DL%20Engineer%20%40%20Serkon%20Teknoloji&descAlignY=55&descSize=18&fontFamily=Fira%20Code" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:11172A&height=220&section=header&text=Yunus%20Emre%20Say%C4%B1n&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20%26%20DL%20Engineer%20%40%20Serkon%20Teknoloji&descAlignY=55&descSize=18&fontFamily=Fira%20Code&v=2" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning+Engineer;Computer+Vision+%7C+Classification+%7C+NLP;ASP.NET+Core+%7C+Python+%7C+C%23+%7C+MSSQL;Currently+exploring+C%2B%2B+%26+Image+Processing" alt="Typing SVG" />
 
@@ -70,11 +70,11 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-nine-rho.vercel.app/api?username=YunusEmreSayin&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=YunusEmreSayin&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages"/>
+  <img height="165" src="https://github-readme-stats-eight-pink.vercel.app/api/top-langs/?username=YunusEmreSayin&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YunusEmreSayin&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=YunusEmreSayin&theme=dark&hide_border=true&v=2" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
