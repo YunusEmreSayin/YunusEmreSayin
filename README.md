@@ -6,9 +6,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 🧑‍💻 About Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
 
 <table>
 <tr>
@@ -45,13 +45,12 @@ Yunus Emre Sayın:
   <img src="https://img.shields.io/badge/Serkon_Teknoloji-2F80ED?style=for-the-badge&logoColor=white" alt="company"/>
 </a>
 <img src="https://img.shields.io/badge/Istanbul,_T%C3%BCrkiye-11172A?style=for-the-badge&logo=googlemaps&logoColor=2F80ED" alt="location"/>
-<img src="https://img.shields.io/badge/Open_to_Collaborate-11172A?style=for-the-badge&logo=handshake&logoColor=2F80ED" alt="open to collaborate"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 🛠️ Tech Stack
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -88,9 +87,9 @@ Yunus Emre Sayın:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 📊 GitHub Stats
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -105,11 +104,15 @@ Yunus Emre Sayın:
 
 <img src="https://raw.githubusercontent.com/YunusEmreSayin/YunusEmreSayin/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/YunusEmreSayin/YunusEmreSayin/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D Contribution Graph"/>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 🤝 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
 
 <div align="center">
 
