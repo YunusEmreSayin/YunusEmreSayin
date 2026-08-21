@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
+<img src="https://raw.githubusercontent.com/YunusEmreSayin/YunusEmreSayin/main/assets/divider.svg" width="100%" alt=""/>
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Yunus Emre Sayın:
 
 ## 🛠️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
+<img src="https://raw.githubusercontent.com/YunusEmreSayin/YunusEmreSayin/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Yunus Emre Sayın:
 
 ## 📊 GitHub Stats
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
+<img src="https://raw.githubusercontent.com/YunusEmreSayin/YunusEmreSayin/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Yunus Emre Sayın:
 
 ## 🤝 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2F80ED&height=3&section=header" width="100%"/>
+<img src="https://raw.githubusercontent.com/YunusEmreSayin/YunusEmreSayin/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
