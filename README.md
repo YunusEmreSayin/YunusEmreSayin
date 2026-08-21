@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&height=60&lines=Machine+Learning+%26+Deep+Learning+Engineer;Computer+Vision+%7C+Object+Detection+%7C+NLP;PyTorch+%7C+TensorFlow+%7C+OpenCV+%7C+YOLO;Turning+data+into+intelligent+systems" alt="Typing SVG"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Istanbul-T%C3%BCrkiye-2F80ED?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
-  <img src="https://komarev.com/ghpvc/?username=YunusEmreSayin&label=Profile%20Views&color=2F80ED&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/YunusEmreSayin?label=Followers&style=flat-square&color=2F80ED&logo=github" alt="followers"/>
-</p>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -18,27 +12,42 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="middle" width="55%">
 
-<br/>
+```yaml
+Yunus Emre Sayın:
+  role:      ML & DL Engineer
+  company:   Serkon Teknoloji
+  education: ISTUN
+  location:  Istanbul, Türkiye
 
-- 🤖 &nbsp;**ML & DL Engineer** @ [Serkon Teknoloji](https://serkonteknoloji.com)
-- 🎓 &nbsp;Student @ **ISTUN** — Istanbul, Türkiye
-- 🧠 &nbsp;Building **deep learning** models for **classification** & **computer vision**
-- 🏁 &nbsp;Also shipping **ASP.NET Core Web APIs**, Python services & **Android** apps
-- 🌱 &nbsp;Currently exploring **C++**, image processing and **edge AI inference**
-- ⚡ &nbsp;Fun fact: I like turning messy datasets into working products
+  focus:
+    - Deep Learning
+    - Computer Vision
+    - Object Detection
 
-<br/>
+  building:  [.NET Core, Python, Android]
+  learning:  [C++, Edge AI, Image Processing]
+```
 
 </td>
-<td valign="center" width="42%">
+<td valign="middle" width="45%">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://serkonteknoloji.com">
+  <img src="https://img.shields.io/badge/Serkon_Teknoloji-2F80ED?style=for-the-badge&logoColor=white" alt="company"/>
+</a>
+<img src="https://img.shields.io/badge/Istanbul,_T%C3%BCrkiye-11172A?style=for-the-badge&logo=googlemaps&logoColor=2F80ED" alt="location"/>
+<img src="https://img.shields.io/badge/Open_to_Collaborate-11172A?style=for-the-badge&logo=handshake&logoColor=2F80ED" alt="open to collaborate"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
@@ -87,10 +96,6 @@
 
 <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=YunusEmreSayin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&icon_color=2F80ED" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YunusEmreSayin&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=YunusEmreSayin&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border=0D1117&v=3" alt="GitHub Streak"/>
 
 <br/><br/>
 
