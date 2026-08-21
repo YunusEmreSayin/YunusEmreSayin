@@ -1,148 +1,185 @@
-### 👋 Hi, I’m @YunusEmreSayin 
-- 📌 Working as Data Scientist at Serkon Teknoloji   📍Located Istanbul / Turkey
-- 📌 Student at ISTUN ,     📍 Located Istanbul / Turkey
-##
-- 🪛 I’m Working on Deep Learning , Machine Learning projects And Classification problems
-- 🏁 I'm also working on ASP.NETCORE Web Api & Python Service technologies,C#,MSSQL,Python projects,Android Applications(Java),ASP.NET
-- 👀 I’m currently learning C++,AI Technologies,Image Processing Technologies
-##
-## Contact 
-- 📫 You can reach me from: yunusemre.sayin00@gmail.com & yunusemre.sayin@serkonteknoloji.com
-<!---
-YunusEmreSayin/YunusEmreSayin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ======================= HEADER BANNER ======================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yunus%20Emre%20Sayın&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Backend&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+</div>
 
-## 
-## Workspaces
+<!-- ======================= TYPING ANIMATION ======================= -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%40+Serkon+Teknoloji;Deep+Learning+%26+Machine+Learning+Engineer;Computer+Vision+%26+Image+Processing;Building+AI-powered+production+systems" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80" style="margin: 10px 40px;"/>
+<!-- ======================= PROFILE STATS BADGES ======================= -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YunusEmreSayin&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/YunusEmreSayin?tab=followers">
+    <img src="https://img.shields.io/github/followers/YunusEmreSayin?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=000000" alt="flask" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://ollama.com" target="_blank" rel="noreferrer">
-    <img src="https://ollama.com/public/ollama.png" alt="ollama" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
+  <img src="https://img.shields.io/badge/Location-İstanbul%2C%20Türkiye-2c5364?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</div>
+
+<br/>
+
+<!-- ======================= ABOUT ME ======================= -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```python
+class YunusEmreSayin:
+    def __init__(self):
+        self.role        = "Data Scientist"
+        self.company     = "Serkon Teknoloji"
+        self.education   = "İstanbul Sağlık ve Teknoloji Üniversitesi (ISTUN)"
+        self.location    = "İstanbul, Türkiye"
+        self.focus       = ["Deep Learning", "Machine Learning", "Computer Vision"]
+        self.building    = ["AI Inference Systems", "Web APIs", "ML Pipelines"]
+        self.learning    = ["C++", "Advanced AI", "Image Processing"]
+
+    def current_stack(self):
+        return {
+            "ai_ml"    : ["PyTorch", "YOLO", "RF-DETR", "TensorRT", "OpenCV"],
+            "backend"  : ["ASP.NET Core", "FastAPI", "Flask", "C#", "Python"],
+            "data"     : ["MSSQL", "MySQL", "Pandas"],
+        }
+```
+
+<table>
+  <tr>
+    <td>🔬</td><td><b>Deep Learning, Machine Learning</b> ve sınıflandırma problemleri üzerine çalışıyorum</td>
+  </tr>
+  <tr>
+    <td>🏗️</td><td><b>ASP.NET Core Web API</b> & <b>Python Service</b> teknolojileri, C#, MSSQL, Python ve Android (Java) projeleri geliştiriyorum</td>
+  </tr>
+  <tr>
+    <td>🌱</td><td>Şu an <b>C++</b>, <b>AI Technologies</b> ve <b>Image Processing</b> üzerine kendimi geliştiriyorum</td>
+  </tr>
+  <tr>
+    <td>⚡</td><td>Üretim ortamlarında GPU tabanlı computer vision inference sistemleri üzerinde çalışıyorum</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ======================= TECH STACK ======================= -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+#### 🧠 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenVINO-00C7FD?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<p align="center">
-  
-   <a href="https://docs.openvino.ai/2024/index.html#" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/OpenVINO_logo.svg/768px-OpenVINO_logo.svg.png?20230122230514" alt="OpenVINO" width="240" height="70" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.llama.ai" target="_blank" rel="noreferrer">
-    <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" alt="llama" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://www.geemma.com" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/google-gemma-ai3370.logowik.com.webp" alt="geemma" width="80" height="80" style="margin: 10px 40px;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://wasabi.com/" target="_blank" rel="noreferrer">
-    <img src="https://wasabi.com/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F828x476%2Fa741cde6a0%2Fstacked-logo-full-color-rgb.png%2Fm%2F172x0%2Ffilters%3Aquality(50)&w=1200&q=75" alt="wasabi" width="140" height="60" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://roboflow.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.logosvgpng.com/wp-content/uploads/2023/03/roboflow-inc-logo-vector.png" alt="roboflow" width="140" height="80" style="margin: 10px 40px;"/>
-  </a>
-  <a href="https://docs.ultralytics.com/tr" target="_blank" rel="noreferrer">
-    <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922be624dae865d06a5_UltralyticsYOLO_full_blue.svg" alt="roboflow" width="140" height="80" style="margin: 10px 40px;"/>
-  </a>
-  
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-
-
-
-
-<p align="center">
-  <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-<h3 align="left">Stats:</h3>
-<p align="center">
-  <img width="480" height="240" src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img width="480" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
+#### 🚀 Backend & Web
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
+#### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
+#### 🤖 LLM & GenAI
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
+#### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wasabi-01CD3E?style=for-the-badge&logo=wasabi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- ======================= GITHUB STATS ======================= -->
+## <img src="https://media.giphy.com/media/ZgWT1eN0hkH1QqjNbW/giphy.gif" width="28"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunusemresayin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemresayin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemresayin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yunusemresayin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</div>
+
+<br/>
+
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunusemresayin&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</div>
+
+<!-- ======================= SNAKE ANIMATION ======================= -->
+<div align="center">
+  <img src="https://github.com/YunusEmreSayin/YunusEmreSayin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ======================= CONTACT ======================= -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Let's Connect
+
+<div align="center">
+  <a href="mailto:yunusemre.sayin00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:yunusemre.sayin@serkonteknoloji.com">
+    <img src="https://img.shields.io/badge/Work%20Email-2c5364?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YunusEmreSayin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ======================= QUOTE ======================= -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+<!-- ======================= FOOTER ======================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
